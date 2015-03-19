@@ -1,10 +1,24 @@
-.green {
-	color: #196107; 
-	font-size:25px}
+article p {color: black;}
 aside p {
 	font-style: times ; 
 	color:blue;
 	}
+.green {
+	color: #196107; 
+	font-size:25px}
+header {
+	padding-bottom: 12px
+	}
+p {
+	color: black;
+}
+h1{
+	text-align: center ; 
+
+}
+header h1 {
+	font-size: 4em
+}
 ul {
 	border-style: dotted;
 }
